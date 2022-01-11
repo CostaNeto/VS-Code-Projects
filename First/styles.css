@@ -1,0 +1,21 @@
+img.profile-picture {
+  width: 100px;
+  border-radius: 50px;
+  float: left;
+  margin-right: 20px;
+}
+
+img.discussion-icon {
+  width: 20px;
+  height: 20px;
+  object-fit: cover;
+}
+
+em {
+  color: red;
+  font-style: normal;
+}
+
+.username {
+  font-weight: bold;
+}
